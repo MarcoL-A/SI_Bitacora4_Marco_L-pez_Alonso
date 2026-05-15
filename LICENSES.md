@@ -3,7 +3,7 @@ Para este trabajo voy a empezar por investigar y redactar qué licencia tiene ca
 
 ## Apache Guacamole
 Se distribuye bajo la Apache License 2.0. Es una licencia de software libre permisiva que permite el uso, modificación y distribución del código. Es ideal para entornos empresariales ya que no obliga a liberar el código de las modificaciones propias y ofrece protección frente a litigios de patentes.
-Fuente: https://guacamole.apache.org/license/
+Fuente: [https://guacamole.apache.org/license/](https://guacamole.apache.org/open-source/)
 
 
 ## OpenSSH
