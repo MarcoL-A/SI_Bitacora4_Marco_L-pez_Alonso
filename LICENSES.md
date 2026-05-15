@@ -8,8 +8,8 @@ Fuente: [https://guacamole.apache.org/license/](https://guacamole.apache.org/ope
 
 ## OpenSSH
 Utiliza una licencia de tipo BSD (variante simplificada). Este software es una pieza fundamental para la administración segura de servidores. Su licencia es extremadamente permisiva, permitiendo su integración en casi cualquier entorno siempre que se mantenga el aviso de copyright original de los desarrolladores.
-Fuente: https://www.openssh.com/licensing.html
-
+Fuente: [https://www.openssh.com/licensing.html
+](https://spdx.org/licenses/SSH-OpenSSH.html)
 
 ## Docker
 El motor de contenedores (Docker Engine) se rige bajo la Apache License 2.0. Esta licencia facilita que la empresa pueda orquestar servicios de forma profesional sin costes de adquisición, garantizando la portabilidad de las aplicaciones bajo un marco legal estandarizado en la industria.
